@@ -12,3 +12,11 @@ console.log(addNumbers());
 
 console.log(subtractNumbers());
 
+
+
+const divideNumbers = function(a,b) {
+  return a/b;
+};
+
+
+console.log(divideNumbers());
